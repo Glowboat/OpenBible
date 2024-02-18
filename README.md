@@ -1,4 +1,4 @@
-The purpose of this project is to make several versions of the Bible easier to implement in electronic applications with rich formatting.
+The purpose of this project is to make several versions of the Bible easier to implement in electronic applications with rich formatting.  
 Please note that the files in this repository are under **different licenses**!
 The licenses can be found alongside their respective files within the folders.
 
@@ -9,6 +9,7 @@ The licenses can be found alongside their respective files within the folders.
 * `<book name="__" type="__">__</book>` - The contents of a single book of the Bible.
 * `<chapter number="__">__</chapter>` - The contents of a single chapter within a Book.
 * `<verse number="__">__</verse>` - The contents of a single verse within a chapter.
+* `<verse number="__" omitted="true"/>` - A verse which is not included in the version, but is included in others.
 
 ## Tags in KJV, ASV, and WEB:
 * `<break/>` - Line break starting a new paragraph, possibly with some space between them.
