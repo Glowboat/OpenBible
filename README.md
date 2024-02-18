@@ -1,4 +1,6 @@
 The purpose of this project is to make several versions of the Bible easier to implement in electronic applications with rich formatting.
+Please note that the files in this repository are under **different licenses**!
+The licenses can be found alongside their respective files within the folders.
 
 # The files contain various xml tags for formatting purposes:
 
