@@ -1,14 +1,14 @@
 The purpose of this project is to make several versions of the Bible easier to implement in electronic applications with rich formatting.
 
-#The files contain various xml tags for formatting purposes:
+# The files contain various xml tags for formatting purposes:
 
-##Tags in all versions:
+## Tags in all versions:
 * `<bible version="__">__</bible>` - The entire contents of the Bible version.
 * `<book name="__" type="__">__</book>` - The contents of a single book of the Bible.
 * `<chapter number="__">__</chapter>` - The contents of a single chapter within a Book.
 * `<verse number="__">__</verse>` - The contents of a single verse within a chapter.
 
-##Tags in KJV, ASV, and WEB:
+## Tags in KJV, ASV, and WEB:
 * `<break/>` - Line break starting a new paragraph, possibly with some space between them.
 * `<return/>` - Start of a new line within the same paragraph, with no extra space between the lines.
 * `<start-quote/>` - A specially positioned glyph introducing the following quotation.
