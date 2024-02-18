@@ -20,7 +20,7 @@ The purpose of this project is to make several versions of the Bible easier to i
 * `<implied>__</implied>` - Bible text which was added by the translators to improve readability.
 * `<jesus>__</jesus>` - Bible text which is a direct quote of Jesus.
 
-##Tags in OpenHB and OpenGNT:
+## Tags in OpenHB and OpenGNT:
 * `<word english="__" grammar="__" strong="__">__</word>` - A unit of text which has a translation.
 * `<split/>` - Separates the textual components that are part of the same word.
 
