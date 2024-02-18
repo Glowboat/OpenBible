@@ -1,6 +1,5 @@
 The purpose of this project is to make several versions of the Bible easier to implement in electronic applications with rich formatting.  
-Please note that the files in this repository are under **different licenses**!
-The licenses can be found alongside their respective files within the folders.
+Please note that the files in this repository are under **different licenses!** The licenses can be found alongside their respective files within the folders.
 
 # The files contain various xml tags for formatting purposes:
 
@@ -17,6 +16,7 @@ The licenses can be found alongside their respective files within the folders.
 * `<start-quote/>` - A specially positioned glyph introducing the following quotation.
 * `<end-quote/>` - A specially positioned glyph following the prior quotation.
 * `<heading name="__"/>` - A brief summary of the following passage.
+* `<footnote text="__"/>` - Commentary on prior verses. Currently only one footnote, but more will be added soon.
 * `<title>__</title>` - Bible text considered introductory to the following text (such as "A Psalm of David" in Psalms).
 * `<indent>__</indent>` - Bible text which is indented (such as part of poetry or a quote).
 * `<right>__</right>` - Bible text which is justified right (such as "Selah" in Psalms).
