@@ -6,4 +6,4 @@ More specifically, `OpenHB.xml` is based on the following data, within the file 
 * The `(extendedStrongNumber)` column
 * The `(morphologyCode)` column
 * The `(ETCBCgloss)` column
-I have reformatted it into XML in OpenHB.xml.
+I have reformatted it into XML in `OpenHB.xml`.
