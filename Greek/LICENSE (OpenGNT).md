@@ -4,4 +4,4 @@ More specifically, `OpenGNT.xml` is based on the following data, within the file
 * The `(book/chapter/verse)` column
 * The first value in each row of the `(TANTT)` column
 * The last value in each row of the `(MounceGloss/TyndaleHouseGloss/OpenGNTGloss)` column
-I have reformatted it into XML in OpenGNT.xml.
+I have reformatted it into XML in `OpenGNT.xml`.
